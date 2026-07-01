@@ -81,7 +81,7 @@ const projects: Project[] = [
     solution:
       'Moved embarrassingly parallel per-pixel work into CUDA kernels and structured the pipeline around GPU-friendly memory access.',
     architecture: ['Frame Input', 'Device Buffer', 'CUDA Kernel', 'Pixel Transform', 'Frame Output'],
-    repo: 'https://github.com/VaibhavGaikwad03/cuda-vfx',
+    repo: 'https://github.com/VaibhavGaikwad03/cuda-vfx-engine',
   },
   {
     id: 'vfs',
