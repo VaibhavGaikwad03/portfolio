@@ -56,7 +56,7 @@ const projects: Project[] = [
   {
     id: 'bingo',
     index: '02',
-    title: 'Bingo WebSocket Server',
+    title: 'Bingo Server',
     category: 'NETWORKING / CONCURRENCY',
     summary:
       'A high-performance C++ WebSocket chat server with thread-safe message routing and persistent storage.',
